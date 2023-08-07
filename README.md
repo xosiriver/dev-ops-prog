@@ -1,2 +1,2 @@
 # dev-ops-prog
-Programming basics for dev ops etc
+Programming basics for dev ops etc.
