@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Grey Wind",
+		"Owner": "Robb",
+		"Status": "Deceased"
+	},
+	{
+		"name": "Lady",
+		"Owner": "Sansa",
+		"Status": "Deceased"
+	},
+	{
+		"name": "Nymeria",
+		"Owner": "Arya",
+		"Status": "Living"
+	},
+	{
+		"name": "Summer",
+		"Owner": "Bran",
+		"Status": "Deceased"
+	},
+	{
+		"name": "Shaggydog",
+		"Owner": "Rickon",
+		"Status": "Deceased"
+	},
+	{
+		"name": "Ghost",
+		"Owner": "Jon",
+		"Status": "living"
+	}
+]

@@ -4,9 +4,9 @@ import random as rd
 def timetrack(func):
     def wrapper(*args, **kwargs):
         before = time.time()
-        val = func(*args, **kwargs)
+        func(*args, **kwargs)
         print(f"Function took {time.time() - before} seconds")
-        return val
+        
     return wrapper
 
 

@@ -4,7 +4,7 @@ def takename():
 
 try:
     name = takename()
-    if any(char.isalpha() for char in name) == False:
+    if any(not(char.isalpha()) for char in name):
         raise ValueError
 except ValueError:
     print("please enter a valid name")
